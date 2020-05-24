@@ -492,13 +492,14 @@
 		<monster name="Rabbit" x="-3" y="-2" z="7" spawntime="60" />
 		<monster name="Deer" x="3" y="3" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="136" centery="372" centerz="7" radius="1">
+		<npc name="Cleiton" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="314" centery="372" centerz="7" radius="5">
 		<monster name="Orc Berserker" x="0" y="-4" z="7" spawntime="60" />
 		<monster name="Orc Berserker" x="-4" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="181" centery="373" centerz="7" radius="1">
-		<npc name="Tyoric" x="0" y="0" z="7" spawntime="60" direction="3" />
-	</spawn>
+	<spawn centerx="181" centery="373" centerz="7" radius="1" />
 	<spawn centerx="186" centery="374" centerz="7" radius="1">
 		<npc name="Brabo" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -984,6 +985,9 @@
 	<spawn centerx="215" centery="385" centerz="8" radius="5">
 		<monster name="Rotworm" x="1" y="0" z="8" spawntime="60" />
 		<monster name="Rotworm" x="-1" y="3" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="188" centery="386" centerz="8" radius="1">
+		<npc name="Tyoric" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="226" centery="392" centerz="8" radius="5">
 		<monster name="Rotworm" x="0" y="1" z="8" spawntime="60" />
