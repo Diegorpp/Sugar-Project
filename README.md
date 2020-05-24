@@ -1,1 +1,1 @@
-Sugar-Project
+Sugar Server
