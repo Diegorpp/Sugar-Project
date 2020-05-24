@@ -5,6 +5,12 @@
 	<action fromid="1747" toid="1749" script="quests/quests.lua" />
 	<action uniqueid="30015" script="quests/annihilator.lua" />
 
+		<!-- Cidade Principal -->>
+		<action uniqueid="10000" script="quests/city_quest.lua" />
+	
+		<!-- Cavernas da Primeira cidade -->
+		
+
 	<!-- Tools -->
 	<action itemid="2420" script="tools/machete.lua" />
 	<action itemid="2550" script="tools/scythe.lua" />

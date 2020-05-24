@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<spawns>
+	<spawn centerx="1015" centery="1008" centerz="5" radius="1">
+		<npc name="Eryn" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1024" centery="1008" centerz="5" radius="1">
+		<npc name="Tyoric" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1006" centery="1038" centerz="5" radius="1">
+		<monster name="Skeleton" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1002" centery="1039" centerz="5" radius="3">
+		<monster name="Skeleton" x="2" y="-3" z="5" spawntime="60" />
+		<monster name="Scarab" x="-3" y="-2" z="5" spawntime="60" />
+		<monster name="Beholder" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Skeleton Warrior" x="1" y="1" z="5" spawntime="60" />
+		<monster name="Skeleton Warrior" x="-2" y="2" z="5" spawntime="60" />
+	</spawn>
+</spawns>
