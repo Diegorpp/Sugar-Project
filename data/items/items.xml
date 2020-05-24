@@ -29428,6 +29428,13 @@
 		<attribute key="description" value="It is said to freeze time itself to capture your fondest memories. Awarded by TibiaEvents.com" />
 		<attribute key="weight" value="2000" />
 	</item>
+	<item id="21733" name="home memory box">
+		<attribute key="description" value="It is said to freeze time itself to capture your fondest memories." />
+		<attribute key="weight" value="2000" />
+		<attribute key="type" value="teleport" />
+		<attribute key="effect" value="teleport" />
+	</item>
+
 	<item fromid="21811" toid="21826" name="flowing water" />
 	<item fromid="21892" toid="21923" name="wasteland" />
 	<item fromid="22133" toid="22134" name="instable vortex">
